@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Initial import">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_json_json_20200518.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/IspitGradTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JavaFXApp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baza.db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/baza.db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/fxml/grad.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/fxml/grad.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rs19-2parc-3t.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rpr19-2parc-6t.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rs/Drzava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Drzava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rs/DrzavaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/DrzavaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rs/GeografijaDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GeografijaDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rs/GlavnaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GlavnaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rs/Grad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Grad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rs/GradController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GradController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ba/unsa/etf/rs/DrzavaControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/DrzavaControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ba/unsa/etf/rs/GeografijaDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/GeografijaDAOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ba/unsa/etf/rs/GlavnaControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/GlavnaControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ba/unsa/etf/rs/GradControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/GradControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ba/unsa/etf/rs/IspitDrzavaControllerSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/IspitGradControllerSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ba/unsa/etf/rs/IspitDrzavaControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/IspitGradControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ba/unsa/etf/rs/IspitGlavnaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/IspitGlavnaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ba/unsa/etf/rs/IspitIzmjenaDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/IspitLetoviDAOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ba/unsa/etf/rs/IspitIzmjenaDrzaveTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectId" id="1R1EkMKSKWJgUKWqyFIvaMGKpKP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579258535779" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="JUnit.RSIspitJSONTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.Main" />
+      <module name="rpr19-2parc-6t" />
+      <option name="VM_PARAMETERS" value="--module-path /usr/share/openjfx/lib --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in rpr19-2parc-6t" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr19-2parc-6t" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IspitGlavnaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr19-2parc-6t" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.IspitGlavnaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IspitGradControllerSetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr19-2parc-6t" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.IspitGradControllerSetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IspitLetoviDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr19-2parc-6t" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.IspitLetoviDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RSIspitJSONTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr19-2parc-6t" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.RSIspitJSONTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.IspitGradControllerSetTest" />
+      <item itemvalue="JUnit.IspitLetoviDAOTest" />
+      <item itemvalue="JUnit.IspitGlavnaTest" />
+      <item itemvalue="JUnit.All in rpr19-2parc-6t" />
+      <item itemvalue="JUnit.RSIspitJSONTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RSIspitJSONTest" />
+        <item itemvalue="JUnit.All in rpr19-2parc-6t" />
+        <item itemvalue="JUnit.IspitGlavnaTest" />
+        <item itemvalue="JUnit.IspitLetoviDAOTest" />
+        <item itemvalue="JUnit.IspitGradControllerSetTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial import">
+      <created>1579258425293</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579258425293</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Rename projekta">
+      <created>1579258486065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579258486065</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Rename projekta">
+      <created>1579258504752</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579258504752</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial import">
+      <created>1591947725342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591947725342</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial import">
+      <created>1594364819682</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594364819682</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial import">
+      <created>1595488422665</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595488422668</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1302000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Rename projekta" />
+    <MESSAGE value="Initial import" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial import" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2019" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591552193074">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2019" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1591552193074" />
+    <state x="1696" y="100" width="1728" height="854" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1591591826200">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1696" y="100" width="1728" height="854" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1591591826200" />
+    <state x="2282" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1599761700281">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2282" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1599761700281" />
+    <state x="2074" y="0" width="971" height="1050" key="CommitChangelistDialog2" timestamp="1595488420842">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="395" y="0" width="809" height="874" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1591947724999" />
+    <state x="2074" y="0" width="971" height="1050" key="CommitChangelistDialog2/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1595488420842" />
+    <state x="620" y="236" width="432" height="487" key="FileChooserDialogImpl" timestamp="1599921047548">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="620" y="228" width="432" height="487" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1591969220726" />
+    <state x="620" y="236" key="FileChooserDialogImpl/0.0.1600.900/1600.0.1920.1080@0.0.1600.900" timestamp="1599921047548" />
+    <state x="2344" y="283" key="FileChooserDialogImpl/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1599760739561" />
+    <state width="1878" height="220" key="GridCell.Tab.0.bottom" timestamp="1599770391318">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="220" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1599770391318" />
+    <state width="1878" height="220" key="GridCell.Tab.0.center" timestamp="1599770391318">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="220" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1599770391318" />
+    <state width="1878" height="220" key="GridCell.Tab.0.left" timestamp="1599770391318">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="220" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1599770391318" />
+    <state width="1878" height="220" key="GridCell.Tab.0.right" timestamp="1599770391318">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="220" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1599770391318" />
+    <state x="1941" y="14" key="SettingsEditor" timestamp="1599769765518">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="284" y="11" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1591947664467" />
+    <state x="1941" y="14" key="SettingsEditor/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1599769765518" />
+    <state x="2075" y="210" key="Vcs.Push.Dialog.v2" timestamp="1595488453657">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="396" y="169" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1591947777278" />
+    <state x="2075" y="210" key="Vcs.Push.Dialog.v2/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1595488453657" />
+    <state x="2131" y="331" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1599769761753">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2131" y="331" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1599769761752" />
+    <state x="2252" y="269" width="616" height="512" key="find.popup" timestamp="1599769146567">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2252" y="269" width="616" height="512" key="find.popup/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1599769146567" />
+    <state x="2326" y="428" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595488435929">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="605" y="345" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.870@0.0.1600.870" timestamp="1591947770583" />
+    <state x="2326" y="428" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1595488435929" />
+    <state x="1886" y="131" key="new project wizard" timestamp="1594227088627">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1886" y="131" key="new project wizard/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1594227088627" />
+    <state x="2223" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1591546364537">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2223" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1591546364537" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

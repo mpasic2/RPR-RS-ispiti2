@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane hgap="5.0" vgap="5.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <stylesheets>
+      <URL value="@/css/forme.css" />
+   </stylesheets>
+   <columnConstraints>
+      <ColumnConstraints />
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <Label text="Naziv:" />
+      <TextField fx:id="fieldNaziv" GridPane.columnIndex="1" />
+      <Label text="Glavni grad:" GridPane.rowIndex="1" />
+      <ChoiceBox fx:id="choiceGrad" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+      <ButtonBar prefHeight="40.0" prefWidth="200.0" GridPane.columnSpan="2" GridPane.rowIndex="3">
+        <buttons>
+          <Button fx:id="btnOk" mnemonicParsing="false" onAction="#clickOk" text="Ok" />
+          <Button fx:id="btnCancel" mnemonicParsing="false" onAction="#clickCancel" text="Cancel" />
+        </buttons>
+      </ButtonBar>
+      <CheckBox fx:id="cbViza" mnemonicParsing="false" text="Potrebna viza" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+   </children>
+   <padding>
+      <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+   </padding>
+</GridPane>
